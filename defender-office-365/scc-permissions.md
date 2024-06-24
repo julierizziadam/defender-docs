@@ -54,8 +54,8 @@ Managing permissions in Defender for Office 365 or Microsoft Purview gives users
 
 |Role group|Description|Default roles assigned|
 |---|---|---|
-|**Attack Simulator Administrators**|Don't use this role group in these portals. Use the corresponding role in Microsoft Entra ID.|Attack Simulator Admin|
-|**Attack Simulator Payload Authors**|Don't use this role group in these portals. Use the corresponding role in Microsoft Entra ID.|Attack Simulator Payload Author|
+|**Attack Simulation Administrator**|Don't use this role group in these portals. Use the corresponding role in Microsoft Entra ID.|Attack Simulation Administrator|
+|**Attack Payload Author**|Don't use this role group in these portals. Use the corresponding role in Microsoft Entra ID.|Attack Payload Author|
 |**Audit Manager**|Manage Audit log settings and Search, View, and Export Audit logs.|Audit Logs <br/><br/> View-Only Audit Logs|
 |**Audit Reader**|Search, View, and Export Audit logs.|View-Only Audit Logs|
 |**Billing Administrator**|Configure Billing features.|Billing Admin|
